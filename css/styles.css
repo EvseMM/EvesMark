@@ -305,8 +305,11 @@ figure {
 }
 
 img,
-svg {
+jpg {
   vertical-align: middle;
+  border-radius: 50px;
+  
+ 
 }
 
 table {
